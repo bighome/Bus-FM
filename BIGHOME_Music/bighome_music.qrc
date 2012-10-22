@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/BIGHOME_Music" >
+        <file>Resources/BgPix.png</file>
+        <file>Resources/BgmusicManager.png</file>
+        <file>Resources/about.png</file>
+        <file>Resources/abouts.png</file>
+        <file>Resources/add.png</file>
+        <file>Resources/bgPhoto.png</file>
+        <file>Resources/close.png</file>
+        <file>Resources/closes.png</file>
+        <file>Resources/footBg.png</file>
+        <file>Resources/handPhoto.png</file>
+        <file>Resources/like.png</file>
+        <file>Resources/list.png</file>
+        <file>Resources/next.png</file>
+        <file>Resources/playButton.png</file>
+        <file>Resources/pushButton.png</file>
+        <file>Resources/sliderHandle.png</file>
+        <file>Resources/small.png</file>
+        <file>Resources/smalls.png</file>
+        <file>Resources/sound.png</file>
+        <file>Resources/star.png</file>
+        <file>Resources/starPress.png</file>
+        <file>Resources/topBg.png</file>
+        <file>Resources/unlike.png</file>
+        <file>Resources/unlist.png</file>
+        <file>Resources/unnext.png</file>
+        <file>Resources/unsound.png</file>
+    </qresource>
+</RCC>

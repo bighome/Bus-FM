@@ -1,0 +1,83 @@
+<ui version="4.0" >
+ <class>BIGHOME_UI_MusicmessagesClass</class>
+ <widget class="QWidget" name="BIGHOME_UI_MusicmessagesClass" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>139</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>BIGHOME_UI_Musicmessages</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout" >
+   <property name="margin" >
+    <number>0</number>
+   </property>
+   <property name="spacing" >
+    <number>0</number>
+   </property>
+   <item row="0" column="0" >
+    <widget class="QLabel" name="nowPlayMusic" >
+     <property name="styleSheet" >
+      <string notr="true" >color: rgb(148, 148, 148);
+font: 11pt "微软雅黑";</string>
+     </property>
+     <property name="text" >
+      <string>nowPlayMusic</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0" colspan="2" >
+    <widget class="QLabel" name="nowPlayMusicName" >
+     <property name="styleSheet" >
+      <string notr="true" >color: rgb(148, 148, 148);
+font: 11pt "微软雅黑";</string>
+     </property>
+     <property name="text" >
+      <string>nowPlayMusicName</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="0" colspan="2" >
+    <widget class="QSlider" name="time" >
+     <property name="maximum" >
+      <number>999999999</number>
+     </property>
+     <property name="orientation" >
+      <enum>Qt::Horizontal</enum>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="0" >
+    <spacer name="horizontalSpacer" >
+     <property name="orientation" >
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="sizeHint" stdset="0" >
+      <size>
+       <width>235</width>
+       <height>20</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item row="3" column="1" >
+    <widget class="QLabel" name="nowPlayMusicTime" >
+     <property name="styleSheet" >
+      <string notr="true" >font: 11pt "微软雅黑";
+color: rgb(68, 68, 68);</string>
+     </property>
+     <property name="text" >
+      <string>nowPlayMusicTime</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11" />
+ <resources/>
+ <connections/>
+</ui>

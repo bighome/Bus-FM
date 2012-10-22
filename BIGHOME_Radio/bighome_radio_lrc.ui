@@ -1,0 +1,19 @@
+<ui version="4.0" >
+ <class>BIGHOME_Radio_lrcClass</class>
+ <widget class="QWidget" name="BIGHOME_Radio_lrcClass" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>321</width>
+    <height>99</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>BIGHOME_Radio_lrc</string>
+  </property>
+ </widget>
+ <layoutdefault spacing="6" margin="11" />
+ <resources/>
+ <connections/>
+</ui>

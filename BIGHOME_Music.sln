@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BIGHOME_Music", "BIGHOME_Music\BIGHOME_Music.vcproj", "{30296BC9-9551-4AC1-A096-692182EFC72D}"
+	GlobalSection(Qt) = preSolution
+		Integration = True
+	EndGlobalSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BIGHOME_Music_Base", "BIGHOME_Music_Base\BIGHOME_Music_Base.vcproj", "{7DD09AD0-B586-4390-A1F3-C228B1DE85DB}"
+	GlobalSection(Qt) = preSolution
+		Integration = True
+	EndGlobalSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BIGHOME_Music_UI", "BIGHOME_Music_UI\BIGHOME_Music_UI.vcproj", "{CF1085C5-922B-4D8F-8E1E-67CBACC8349E}"
+	GlobalSection(Qt) = preSolution
+		Integration = True
+	EndGlobalSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BIGHOME_Music_netWork", "BIGHOME_Music_netWork\BIGHOME_Music_netWork.vcproj", "{90495A75-A4C9-453D-81F7-6CAE70E9B2AB}"
+	GlobalSection(Qt) = preSolution
+		Integration = True
+	EndGlobalSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BIGHOME_Music_test", "BIGHOME_Music_test\BIGHOME_Music_test.vcproj", "{70417594-07CE-481C-8C8C-F8E3FFA0908E}"
+	GlobalSection(Qt) = preSolution
+		Integration = True
+	EndGlobalSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BIGHOME_Radio", "BIGHOME_Radio\BIGHOME_Radio.vcproj", "{51305D31-9C58-4752-B9CB-34C6698A3B43}"
+	GlobalSection(Qt) = preSolution
+		Integration = True
+	EndGlobalSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30296BC9-9551-4AC1-A096-692182EFC72D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30296BC9-9551-4AC1-A096-692182EFC72D}.Debug|Win32.Build.0 = Debug|Win32
+		{30296BC9-9551-4AC1-A096-692182EFC72D}.Release|Win32.ActiveCfg = Release|Win32
+		{30296BC9-9551-4AC1-A096-692182EFC72D}.Release|Win32.Build.0 = Release|Win32
+		{7DD09AD0-B586-4390-A1F3-C228B1DE85DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7DD09AD0-B586-4390-A1F3-C228B1DE85DB}.Debug|Win32.Build.0 = Debug|Win32
+		{7DD09AD0-B586-4390-A1F3-C228B1DE85DB}.Release|Win32.ActiveCfg = Release|Win32
+		{7DD09AD0-B586-4390-A1F3-C228B1DE85DB}.Release|Win32.Build.0 = Release|Win32
+		{CF1085C5-922B-4D8F-8E1E-67CBACC8349E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF1085C5-922B-4D8F-8E1E-67CBACC8349E}.Debug|Win32.Build.0 = Debug|Win32
+		{CF1085C5-922B-4D8F-8E1E-67CBACC8349E}.Release|Win32.ActiveCfg = Release|Win32
+		{CF1085C5-922B-4D8F-8E1E-67CBACC8349E}.Release|Win32.Build.0 = Release|Win32
+		{90495A75-A4C9-453D-81F7-6CAE70E9B2AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{90495A75-A4C9-453D-81F7-6CAE70E9B2AB}.Debug|Win32.Build.0 = Debug|Win32
+		{90495A75-A4C9-453D-81F7-6CAE70E9B2AB}.Release|Win32.ActiveCfg = Release|Win32
+		{90495A75-A4C9-453D-81F7-6CAE70E9B2AB}.Release|Win32.Build.0 = Release|Win32
+		{70417594-07CE-481C-8C8C-F8E3FFA0908E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{70417594-07CE-481C-8C8C-F8E3FFA0908E}.Debug|Win32.Build.0 = Debug|Win32
+		{70417594-07CE-481C-8C8C-F8E3FFA0908E}.Release|Win32.ActiveCfg = Release|Win32
+		{70417594-07CE-481C-8C8C-F8E3FFA0908E}.Release|Win32.Build.0 = Release|Win32
+		{51305D31-9C58-4752-B9CB-34C6698A3B43}.Debug|Win32.ActiveCfg = Debug|Win32
+		{51305D31-9C58-4752-B9CB-34C6698A3B43}.Debug|Win32.Build.0 = Debug|Win32
+		{51305D31-9C58-4752-B9CB-34C6698A3B43}.Release|Win32.ActiveCfg = Release|Win32
+		{51305D31-9C58-4752-B9CB-34C6698A3B43}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
